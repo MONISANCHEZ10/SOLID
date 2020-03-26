@@ -37,11 +37,18 @@ STEPS FOR INSTALL
 
 ### DOCKER 
 - Se montará un servidor docker 
-- Eliminar imagenes de docker
+- COmmands: 
 ``` docker stop $(docker ps -q)  
+#Eliminar imagenes de docker
 docker image prune 
 docker volume prune
 docker system prune –volumes –images 
 docker system prune --all
 docker volume rm my-name 
 ```
+
+### REFERENCES
+- SOLID SERVER INSTALATION
+https://www.npmjs.com/package/solid-server
+- CERTIFICATE SSL
+https://latinsource.wordpress.com/2017/07/06/certificados-ssl-centos-7/
