@@ -1,1 +1,0 @@
-{"client_id":"57ec26f48ca7f3a32f7c922f6d4523c2","redirect_uris":["https://user1.localhost:8443/.well-known/solid/login"],"response_types":["id_token token"],"grant_types":["implicit"],"application_type":"web","id_token_signed_response_alg":"RS256","token_endpoint_auth_method":"client_secret_basic","frontchannel_logout_session_required":false}

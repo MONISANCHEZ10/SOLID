@@ -1,1 +1,0 @@
-{"header":{"alg":"RS256","kid":"pL5zgqa_wH4"},"payload":{"iss":"https://localhost:8443","sub":"https://localhost:8443/profile/card#me","aud":["23a97c12f53adcb2d95137ba115ce81a"],"exp":1586218458,"iat":1585008858,"jti":"9cda51b7d948ccce","scope":"openid"}}
