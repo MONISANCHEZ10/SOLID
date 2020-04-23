@@ -1,0 +1,17 @@
+version: '3.5'
+services:
+  solid-server:
+    build:
+      context: ./
+      dockerfile: Dockerfile/Dockerfile
+    # volumes:
+    #   - type: bind
+    #     source: ./
+    #     target: /App
+    #     read_only: false
+    volumes:
+      - ./App:/App
+    expose:
+      - "8443"
+    ports:
+      - 8443:8443
