@@ -1,0 +1,1 @@
+{"client_id":"28dfa36299ccaa7040d2f6ac4a2cce7b","redirect_uris":["https://monica1.localhost:8443/.well-known/solid/login"],"response_types":["id_token token"],"grant_types":["implicit"],"application_type":"web","id_token_signed_response_alg":"RS256","token_endpoint_auth_method":"client_secret_basic","frontchannel_logout_session_required":false}

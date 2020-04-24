@@ -1,0 +1,19 @@
+@prefix : <#>.
+@prefix terms: <http://purl.org/dc/terms/>.
+@prefix XML: <http://www.w3.org/2001/XMLSchema#>.
+@prefix n: <http://rdfs.org/sioc/ns#>.
+@prefix n0: <http://xmlns.com/foaf/0.1/>.
+@prefix c: </profile/card#>.
+@prefix ind: <../../../index.ttl#>.
+@prefix flow: <http://www.w3.org/2005/01/wf/flow#>.
+
+:Msg1587745672805
+    terms:created "2020-04-24T16:27:52Z"^^XML:dateTime;
+    n:content "hola";
+    n0:maker c:me.
+:Msg1587745706636
+    terms:created "2020-04-24T16:28:26Z"^^XML:dateTime;
+    n:content "24 de abril 20202";
+    n0:maker c:me.
+ind:this flow:message :Msg1587745672805, :Msg1587745706636 .
+

@@ -1,0 +1,9 @@
+@prefix : <#>.
+@prefix solid: <http://www.w3.org/ns/solid/terms#>.
+@prefix mee: <http://www.w3.org/ns/pim/meeting#>.
+@prefix ind: </CHAT-PUBLIC/index.ttl#>.
+
+<> a solid:TypeIndex, solid:UnlistedDocument.
+
+:id1587652225356 solid:forClass mee:LongChat; solid:instance ind:this.
+
