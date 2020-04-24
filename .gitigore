@@ -1,11 +1,11 @@
 .db
 .acl
 .well-known/
-config/
-localhost/
-*.localhost
-favicon.ico
-favicon.ico.acl
-index.html
-robots.*
+.config/
+.localhost/
+.*.localhost
+.favicon.ico
+.favicon.ico.acl
+.index.html
+.robots.*
 
