@@ -1,12 +1,9 @@
 ## SOLID ##
-
-### NODE
-
 ### INSTALL SOLID SERVER
 STEPS FOR INSTALL
 
 - Preprequisites:
-    - SO CentOS 7
+    - SO CentOS 8
     - npm v6.13.4
 - Instaling server solid
     - Run command:
@@ -49,30 +46,14 @@ STEPS FOR INSTALL
 > $ DEBUG="SOLID:*" solid start
 
 
-## ISSUES 
 
-- Accion realizada para correción de 401 error al login.
-- https://github.com/solid/node-solid-server/issues/1263
+### DOCKER HELPER COMMANDS
 
-
-```:errors
-    acl:Authorization;
-    acl:accessTo <some-other-file.txt>;
-    acl:agentGroup <group-listing-error.ttl#folks>;
-    acl:mode acl:Read, acl:Write.
-  ``` 
-
-
-### DOCKER 
-- Se montará un servidor docker 
-- COmmands: 
-``` docker stop $(docker ps -q)  
-#Eliminar imagenes de docker
-docker image prune 
-docker volume prune
-docker system prune –volumes –images 
-docker system prune --all
-docker volume rm my-name 
+``` 
+docker rm -f $(docker ps -qa)         - Eliminar toda las imagenes  de docker independientemente del estado.
+docker system prune --all           - ELiminar img, contenedores redes todo
+docker-compose up                   - levantar docker-compose.yml principal
+ 
 ```
 
 ### REFERENCES
@@ -80,3 +61,5 @@ docker volume rm my-name
 https://www.npmjs.com/package/solid-server
 - CERTIFICATE SSL
 https://latinsource.wordpress.com/2017/07/06/certificados-ssl-centos-7/
+- DOCKER
+- SOLID 
