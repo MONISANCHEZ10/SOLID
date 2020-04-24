@@ -1,5 +1,5 @@
 ## SOLID ##
-### INSTALL SOLID SERVER
+### INSTALL SOLID SERVER 
 STEPS FOR INSTALL
 
 - Preprequisites:
