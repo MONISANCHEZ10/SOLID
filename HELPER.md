@@ -53,7 +53,10 @@ STEPS FOR INSTALL
 docker rm -f $(docker ps -qa)         - Eliminar toda las imagenes  de docker independientemente del estado.
 docker system prune --all           - ELiminar img, contenedores redes todo
 docker-compose up                   - levantar docker-compose.yml principal
- 
+.....
+sudo docker run -it prueba-de-solid /bin/sh   -para ejecutar como background service
+
+
 ```
 
 ### REFERENCES
