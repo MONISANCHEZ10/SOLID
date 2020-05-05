@@ -9,32 +9,33 @@ Funcionalidad Módulo de chat Solid
 ##Creacion de Chat desde el USUARIO1
 - Luego del login dirigirse a ``Your Stuff``, y luego a ``Your Storage``.
 
-   ![YourStuff](https://imgur.com/xtYwxyC)
+   ![YourStuff](https://imgur.com/xtYwxyC.png)
  
 - Clic en el signo  +  para agregar nuestro Chat  : ``CHAT-DOCUMENTATION``
 
 
 
-   ![YourStuff](https://imgur.com/0tf7qL4)
+   ![YourStuff](https://imgur.com/0tf7qL4.png)
 
 ##Permisos de acceso a usario2
 - Agregar Usuario mediante el WebID del otro USUARIO2:
 
-![yourstorage](https://imgur.com/GlCXAR5)
+![yourstorage](https://imgur.com/GlCXAR5.png)
 
 - Clic en los permisos de usuario (logo de candado), asignar permisos según el requerimiento 
 
-![permisos](https://imgur.com/dK1W5fT)
+![permisos](https://imgur.com/dK1W5fT.png)
 
 ## Compartir link de acceso al usuario
 - Copiamos el link de acceso al chat, este lo podemos encontrar en el siguiente ícono:
  
- ![linkacceso](https://imgur.com/sPqIzvq)
+ ![linkacceso](https://imgur.com/sPqIzvq.png)
  
  ##ACCESO USUARIO2 
  - El link del paso anterior se debe compartir al usuario2 para que empiece a interactuar en el chat.
   
-  ![user2chat](https://imgur.com/PwvQ7SN)
+  ![user2chat](https://imgur.com/PwvQ7SN.png)
+  
 
 
 
