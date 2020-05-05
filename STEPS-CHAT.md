@@ -39,7 +39,7 @@
  ![linkacceso](https://imgur.com/sPqIzvq.png)
  
  ## Acceso al USUARIO2 ##
- - El link del paso anterior se debe compartir al usuario2 para que empiece a interactuar en el chat.
+ - El link del paso anterior se debe compartir al usuario2 que tendrá que indentificarse con su login y password, para interactuar en el chat.
   
   ![user2chat](https://imgur.com/PwvQ7SN.png)
   
