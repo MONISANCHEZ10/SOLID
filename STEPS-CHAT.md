@@ -3,8 +3,8 @@ Funcionalidad Módulo de chat Solid
 
 ##Requisitos
 - Pods
-    1.-USUARIO1  https://m0nysanhcez.solid.community/profile/card#me
-    2.-USUARIO2 https://m0nysanchez.solid.community/profile/card#me
+   - 1.-USUARIO1  https://m0nysanhcez.solid.community/profile/card#me
+   - 2.-USUARIO2 https://m0nysanchez.solid.community/profile/card#me
 
 ##Creacion de Chat desde el USUARIO1
 - Luego del login dirigirse a ``Your Stuff``, y luego a ``Your Storage``.
