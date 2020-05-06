@@ -1,0 +1,1 @@
+{"client_id":"2c97b7790399fd66373b53539b4512b6","redirect_uris":["https://usuario2.localhost:8443/.well-known/solid/login"],"response_types":["id_token token"],"grant_types":["implicit"],"application_type":"web","id_token_signed_response_alg":"RS256","token_endpoint_auth_method":"client_secret_basic","frontchannel_logout_session_required":false}

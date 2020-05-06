@@ -1,0 +1,18 @@
+@prefix : <#>.
+@prefix terms: <http://purl.org/dc/terms/>.
+@prefix schem: <http:/schema.org/>.
+@prefix c: </profile/card#>.
+@prefix XML: <http://www.w3.org/2001/XMLSchema#>.
+@prefix n: <http://rdfs.org/sioc/ns#>.
+@prefix n0: <http://xmlns.com/foaf/0.1/>.
+@prefix ind: <../../../index.ttl#>.
+@prefix flow: <http://www.w3.org/2005/01/wf/flow#>.
+
+:id1587780057724
+a schem:AgreeAction; schem:agent c:me; schem:target :Msg1587779974218.
+:Msg1587779974218
+    terms:created "2020-04-25T01:59:34Z"^^XML:dateTime;
+    n:content "Hi guys!";
+    n0:maker c:me.
+ind:this flow:message :Msg1587779974218 .
+

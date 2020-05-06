@@ -55,6 +55,8 @@ docker system prune --all           - ELiminar img, contenedores redes todo
 docker-compose up                   - levantar docker-compose.yml principal
 .....
 sudo docker run -it prueba-de-solid /bin/sh   -para ejecutar como background service
+sudo docker start solid_solid-server_1    Levantar UP docker compose
+sudo docker exec -it solid_solid-server_1 /bin/sh
 
 
 ```
@@ -66,3 +68,29 @@ https://www.npmjs.com/package/solid-server
 https://latinsource.wordpress.com/2017/07/06/certificados-ssl-centos-7/
 - DOCKER
 - SOLID 
+
+
+
+
+
+
+
+## construyendo app
+
+WEBID: https://monica.localhost:8443/profile/card#me
+Creamos una app appnotes , interactuando con docker:
+sudo docker exec -it solid_solid-server_1 /bin/sh
+
+crear directorios Appnotes y luego npm init, luego intalar npm client auth solid
+
+npm install solid-auth-client
+
+
+
+
+
+
+
+
+
+

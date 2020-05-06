@@ -1,0 +1,18 @@
+@prefix : <#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix c: </profile/card#>.
+@prefix terms: <http://www.w3.org/ns/solid/terms#>.
+@prefix n0: <http://xmlns.com/foaf/0.1/>.
+@prefix sp: <http://www.w3.org/ns/pim/space#>.
+@prefix mee: <http://www.w3.org/ns/pim/meeting#>.
+
+c:me
+    terms:privateTypeIndex <privateTypeIndex.ttl>;
+    terms:publicTypeIndex <publicTypeIndex.ttl>;
+    n0:mbox <mailto:monica@gmail.com>.
+<> a sp:ConfigurationFile; dct:title "Preferences file".
+
+:id1587779958865
+    a terms:TypeRegistration;
+    terms:forClass mee:LongChat;
+    terms:personalDefaults :id1587779958865.
