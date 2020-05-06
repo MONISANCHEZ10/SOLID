@@ -1,0 +1,11 @@
+@prefix : <#>.
+@prefix n0: <http://www.w3.org/ns/auth/acl#>.
+@prefix htt: <./>.
+@prefix c: </profile/card#>.
+
+:a1
+    a n0:Authorization;
+    n0:accessTo htt:;
+    n0:agent c:me;
+    n0:defaultForNew htt:;
+    n0:mode n0:Control, n0:Read, n0:Write.

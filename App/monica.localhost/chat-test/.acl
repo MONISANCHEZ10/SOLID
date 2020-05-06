@@ -1,0 +1,22 @@
+@prefix : <#>.
+@prefix n0: <http://www.w3.org/ns/auth/acl#>.
+@prefix ch: <./>.
+@prefix c: </profile/card#>.
+
+:AppendDefault
+    a n0:Authorization;
+    n0:agentClass n0:AuthenticatedAgent;
+    n0:default ch:;
+    n0:mode n0:Append.
+:ControlReadWrite
+    a n0:Authorization;
+    n0:accessTo ch:;
+    n0:agent c:me, <mailto:monica@gmail.com>;
+    n0:mode n0:Control, n0:Read, n0:Write.
+:ControlReadWriteDefault
+    a n0:Authorization;
+    n0:agent c:me, <mailto:monica@gmail.com>;
+    n0:default ch:;
+    n0:mode n0:Control, n0:Read, n0:Write.
+:ReadDefault a n0:Authorization; n0:default ch:; n0:mode n0:Read.
+

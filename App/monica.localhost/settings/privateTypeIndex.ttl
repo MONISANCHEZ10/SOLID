@@ -1,4 +1,12 @@
+@prefix : <#>.
 @prefix solid: <http://www.w3.org/ns/solid/terms#>.
-<>
-    a solid:TypeIndex ;
-    a solid:UnlistedDocument.
+@prefix mee: <http://www.w3.org/ns/pim/meeting#>.
+@prefix ind: </PRUEBA/CHT-PRUEBA/index.ttl#>.
+@prefix pub: <publicTypeIndex.ttl#>.
+
+<> a solid:TypeIndex, solid:UnlistedDocument.
+
+:id1588770287411 solid:forClass mee:LongChat; solid:instance ind:this.
+
+pub:id1588770287410 solid:forClass mee:LongChat; solid:instance ind:this.
+

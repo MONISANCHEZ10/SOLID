@@ -16,7 +16,3 @@
     n0:agentClass n1:Agent;
     n0:default CHA:;
     n0:mode n0:Control, n0:Read, n0:Write.
-:Read a n0:Authorization; n0:accessTo CHA:; n0:mode n0:Read.
-
-:ReadDefault a n0:Authorization; n0:default CHA:; n0:mode n0:Read.
-
