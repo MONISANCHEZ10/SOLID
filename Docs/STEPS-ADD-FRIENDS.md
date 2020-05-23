@@ -1,0 +1,1 @@
+https://forum.solidproject.org/t/how-to-add-a-contact-to-your-profile/55
