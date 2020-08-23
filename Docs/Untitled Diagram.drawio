@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-23T07:11:18.033Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="UMrewIMvmk8hZ36tZ2wv" version="13.6.4" type="github" pages="4">
+<mxfile modified="2020-08-23T07:31:27.314Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="d1n5g7vbqogAhgwsbv6R" version="13.6.4" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1023" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -310,28 +310,76 @@
         <mxCell id="rhTNTYLb63Sr71GAU7q5-0" value="ADMINISTRACION DE ACL&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
           <mxGeometry x="56.5" y="64.5" width="410" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ISgKsiZI0QAlrr2Jzfwn-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_watcher.svg;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
-          <mxGeometry x="250" y="350" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ISgKsiZI0QAlrr2Jzfwn-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Content_Protection.svg;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
-          <mxGeometry x="120" y="420" width="45" height="50" as="geometry" />
+          <mxGeometry x="439.5" y="425" width="27" height="30" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7-vpWMnGcJ2i6pM12kCW" name="Page-3">
-    <mxGraphModel dx="1023" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="FMvHfS5A2yBwxo2K0U72-0" />
-        <mxCell id="FMvHfS5A2yBwxo2K0U72-1" parent="FMvHfS5A2yBwxo2K0U72-0" />
-        <mxCell id="FMvHfS5A2yBwxo2K0U72-2" value="Web Semantica" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="FMvHfS5A2yBwxo2K0U72-1">
-          <mxGeometry x="56.5" y="64.5" width="240" height="40" as="geometry" />
+        <mxCell id="x22uvUgvSZLSD14-lv_a-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="56.5" y="250" width="59.2" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FMvHfS5A2yBwxo2K0U72-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Solutions.svg;" vertex="1" parent="FMvHfS5A2yBwxo2K0U72-1">
-          <mxGeometry x="520" y="210" width="50" height="50" as="geometry" />
+        <mxCell id="x22uvUgvSZLSD14-lv_a-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="730" y="387.03" width="46.6" height="62.97" as="geometry" />
         </mxCell>
-        <mxCell id="FMvHfS5A2yBwxo2K0U72-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Resource_Graph_Explorer.svg;" vertex="1" parent="FMvHfS5A2yBwxo2K0U72-1">
-          <mxGeometry x="340" y="310" width="49" height="50" as="geometry" />
+        <mxCell id="x22uvUgvSZLSD14-lv_a-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="160" y="220" width="180" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-9" value="POD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=10;perimeterSpacing=4;labelBackgroundColor=none;labelBorderColor=none;fontSize=18;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="190" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/files-o-128.png" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="170" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-types-outline-1/64/files_documents_folder-128.png" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="166" y="320" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/files-and-folders-12/512/Asset_26-128.png" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="166" y="362" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/files-and-folders-12/512/Asset_23-128.png" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="170" y="410" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/keynote-and-powerpoint-icons/256/Messages-128.png" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="174" y="460" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/multimedia-26/24/multimedia-14-128.png" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="172" y="512" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-23" value="Contact us" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.contact_us;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="170" y="560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/modern-education-and-knowledge-power-1/512/511_student__notes_books__student_notes-128.png" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="177" y="610" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-26" value="ACL que permiten manejar accesos pra control, lectura y escritura" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="380" y="460" width="110" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-27" value="EL usuario por cada archivo que tenga en su POD puede gestionar un ACL&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="10" y="358" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-28" value="c&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Ffont-awesome%2F1792%2Ffiles-o-128.png%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22270%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.script_file" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="392.5" y="404" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=block;startFill=1;strokeWidth=3;" edge="1" parent="iQNqjEqQQoG7GqOi5-ft-1" source="x22uvUgvSZLSD14-lv_a-26" target="x22uvUgvSZLSD14-lv_a-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-30" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="iQNqjEqQQoG7GqOi5-ft-1" source="ISgKsiZI0QAlrr2Jzfwn-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ISgKsiZI0QAlrr2Jzfwn-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_watcher.svg;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="590" y="404" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-34" value="" style="endArrow=none;html=1;strokeWidth=3;exitX=-0.064;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="iQNqjEqQQoG7GqOi5-ft-1" source="x22uvUgvSZLSD14-lv_a-1" target="ISgKsiZI0QAlrr2Jzfwn-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x22uvUgvSZLSD14-lv_a-35" value="El usuario consultará un recurso del POD de su amigo, y el ACL permitirá o no el acceso." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iQNqjEqQQoG7GqOi5-ft-1">
+          <mxGeometry x="703.3" y="467" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
