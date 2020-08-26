@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-26T01:31:52.773Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="jBOnTJ4L5vMfkqjWgwiu" version="13.6.4" type="github" pages="6">
+<mxfile modified="2020-08-26T01:33:21.385Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="6XLl_AeaxhAEut7cn3SV" version="13.6.4" type="github" pages="6">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -690,7 +690,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8RkXlogEiUI6qZ5KUt3E" name="spoke hub Solid">
-    <mxGraphModel dx="1209" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="548" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zItwjAK0GY-Y-SJLb2g8-0" />
         <mxCell id="zItwjAK0GY-Y-SJLb2g8-1" parent="zItwjAK0GY-Y-SJLb2g8-0" />
